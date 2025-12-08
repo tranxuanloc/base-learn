@@ -6,5 +6,5 @@ https://docs.base.org/learn/exercise-contracts
 | EmployeeStorage | 0xc7c168CA87a92E9A010D1f220Ff085a819a69d59 |
 | ArraysExercise | 0x4DE6a9f0d6f2575650141A54b59BA0B87b756d4a |
 | FavoriteRecords | 0xa2780f351FB25fADEE1E636772E5c391b6D75f98 |
-|  |  |
+| GarageManager | 0x95702A656bacdF3BdFdBe472c73c89296A79Bd26 |
  
