@@ -11,4 +11,5 @@ https://docs.base.org/learn/exercise-contracts
 | EngineeringManager | 0xBc97C3b7305977ca4e5c72221D6E75d5E1Ce1506 |
 | InheritanceSubmission | 0xd9E81c98bc077dAEF57E8b35bC2032eb882B9f5B |
 | ImportsExercise | 0x9f97a6a53201Ed746DE21F44B8117eF4c7644c40 |
+| ImportsExercise | 0x84e48D949D5744549206f2395A3531C2B45Ec8D2 |
  
