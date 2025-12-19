@@ -13,4 +13,6 @@ https://docs.base.org/learn/exercise-contracts
 | ImportsExercise | 0x9f97a6a53201Ed746DE21F44B8117eF4c7644c40 |
 | AddressBook | 0x84e48D949D5744549206f2395A3531C2B45Ec8D2 |
 | UnburnableToken | 0x22A37D1Eae6b59172aa5276f5A342f1Dc1d0370C |
+| WeightedVoting | 0x37447ce1E4e10303711043e2c5583aEBa9BFA8C4 |
+| HaikuNFT | 0xe17fC5e2Bc0d6343c327361b6aa04e0479D6C6DD |
  
